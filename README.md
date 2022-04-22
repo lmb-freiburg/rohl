@@ -14,7 +14,7 @@ Please install the following packages
 * pandas
 
 ## Evaluation
-* Note the imagenet data directory should have the following structure:
+* Note: the imagenet data directory should have the following structure:
 ```
  imagenet
  └── train
