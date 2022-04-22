@@ -27,7 +27,7 @@ Please install the following packages
 ```
 
 
-* Download pretrained models: [lf_expert](https://lmb.informatik.uni-freiburg.de/resources/binaries/icc21_rohl/lf_expert/model_final.pth.tar), [hf_expert](https://lmb.informatik.uni-freiburg.de/resources/binaries/icc21_rohl/hf_expert/model_final.pth.tar)
+* Download pretrained models: [lf_expert](https://lmb.informatik.uni-freiburg.de/resources/binaries/iccv21_rohl/lf_expert/model_final.pth.tar), [hf_expert](https://lmb.informatik.uni-freiburg.de/resources/binaries/iccv21_rohl/hf_expert/model_final.pth.tar)
 
 * Then run the following command to evaluate: 
 
