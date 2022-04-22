@@ -27,6 +27,7 @@ Please install the following packages
 
 * Command to run evaluation:
 First download models: [lf_expert](https://lmb.informatik.uni-freiburg.de/resources/binaries/icc21_rohl/lf_expert/model_final.pth.tar), [hf_expert](https://lmb.informatik.uni-freiburg.de/resources/binaries/icc21_rohl/hf_expert/model_final.pth.tar)
+
 `python train.py /data/datasets/imagenet --low-high --evaluate --lf-ckpt ./work_dir/lf_expert/model.pth.tar --hf-ckpt ./work_dir/hf_expert/model.pth.tar -b 1024`
 
 ## Example training:
