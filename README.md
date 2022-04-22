@@ -2,7 +2,9 @@
 Code accompanying the paper: [Improving robustness against common corruptions with frequency biased models (ICCV
 2021)](https://lmb.informatik.uni-freiburg.de/Publications/2021/SB21b/)
 
-![](https://lmb.informatik.uni-freiburg.de/Publications/2021/SB21b/tradeoff.png)
+<p align="center">
+<img src="https://lmb.informatik.uni-freiburg.de/Publications/2021/SB21b/tradeoff.png" width="500" class="center">
+</p>
 
 ## Setup
 Please install the following packages
